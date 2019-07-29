@@ -1,0 +1,14 @@
+{
+    "name": "Profiler",
+    "version": "0.1.2",
+    "descripton": "Share your gaming profiles",
+    "main": "profiler.js",
+    "author": "Joshua Jones",
+    "dependencies": {
+        "better-sqlite-pool": "^0.2.0",
+        "discord.js": "^11.4.2",
+        "enmap": "^4.6.6",
+        "universal-analytics": "^0.4.20",
+        "winston": "^3.1.0"
+    }
+}
